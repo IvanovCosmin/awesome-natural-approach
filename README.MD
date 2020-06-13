@@ -88,6 +88,11 @@ Online course.
 
 
 
+## Sanskrit
+[Sanskrit Through Sanskrit](https://www.youtube.com/playlist?list=PLudSN7Po9muLeRM6545s68eakbxwZRpEJ)
+Youtube series
+
+
 
 
 ## Spanish
