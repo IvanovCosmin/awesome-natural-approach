@@ -15,6 +15,9 @@ You are more than welcome to make improvements.
 [Engvid](https://www.youtube.com/channel/UCKRBA9XfgzAtJodE4t8cUeg)
 Videos. Has more channels, each for other mother tongue.
 
+[English Comprehensible Input for ESL Beginners](https://www.youtube.com/channel/UCSW8FB6e8tUGEaDsoe7SlWw)
+Youtube channel.
+
 ## Esperanto
 [Learn Esperanto - Direct Method](https://www.youtube.com/channel/UC5p3lVv0FLmLoExL-_iU2DA)
 Videos.
@@ -45,6 +48,18 @@ Free natural approach PDFs.
 
 
 ## German
+[learn-german-easily](https://learn-german-easily.com/basic-lesson-tprs)
+Free online course.
+
+[Phoebe Cho - TPRS German](https://www.youtube.com/playlist?list=PLKX3ce-xRQD2J1AJW_XJdI9R75DXKXRbi)
+Youtube series that uses Comprihensible Input Storytelling.
+
+[Stern, S. Studien und Plaudereien. First Series, Henry Holt and company, New York, 1895](http://www.gutenberg.org/ebooks/22160)
+Book for english speakers. It is supposed to be read without any outside references.
+
+[Stern, S, Stern, M. Studien und Plaudereien im Vaterland. Second Series, Henry Colt and Company, New York, 1881](http://www.gutenberg.org/ebooks/35797)
+Book.
+
 [Free books vivarionovum.it](https://vivariumnovum.it/risorse-didattiche/propria-formazione/metodo-diretto-applicato-alle-lingue-moderne)
 
 
@@ -65,6 +80,17 @@ Book. Really understandable, gets gradually harder.
 ## Latin
 [LinguaLatina - read](https://www.youtube.com/watch?v=_Zt19wzsW-c&list=PLU1WuLg45SiyrXahjvFahDuA060P487pV)
 Book that is read by ScorpioMartianus on youtube. For the real book check Lingua Latina on Google :)
+
+## Mandarin
+[Hit Chinese](https://www.youtube.com/channel/UCv33mxPEDfd_Ee1pz1y8KLw)
+Youtube channel. Has stories in slow Chinese.
+
+[Diane Neubauer](https://www.youtube.com/watch?v=_gEsjNgq5tU)
+Youtube channel. Has beginner reading playlist.
+
+## Modern Hebrew
+[Alisa Zingerman - The Hebrew Hub](https://www.youtube.com/channel/UCUn7wA2GaEITAt4GzBZDbhQ)
+I found that Bible Stories in Easy Modern Hebrew series does the trick
 
 ## Portuguese
 [Duolingo - Stories](https://stories.duolingo.com/)
@@ -109,6 +135,21 @@ Youtube videos.
 
 ## Turkish
 [Ali Yılmaz](https://www.youtube.com/channel/UCUulrH3oLPu41NhMNPubYxQ)
+
+
+
+# Other useful links
+[LANGUAGE LINKS DATABASE](https://universeofmemory.com/language-links-database/)
+Lots of other resources for many languages.
+
+[FluentU](https://www.fluentu.com/)
+Paid app. Has lots of videos translated in Spanish, French, Mandarin Chinese, German, Japanese, English, Italian, Russian, and Korean. Worth getting the trial and then deciding for yourself.
+
+[Beelinguapp](https://www.beelinguapp.com/)
+Has texts in many languages, translated into english. Really great resource for reading, listening and translating. It has Spanish, English, German, Portuguese, Korean, French, Hindi, Russian, Turkish, Chinese, Arabic, Italian and Japanese. Has a paid version, but the paid one is ok.
+
+[Drops](https://languagedrops.com/)
+Learn vocabulary using images. This may be good for more advanced users. I personally don't recommend buying it unless you are more advanced in the target language.
 
 
 
