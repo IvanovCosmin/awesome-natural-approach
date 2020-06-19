@@ -1,6 +1,6 @@
 # What is this?
 This is just that contains as many language learning resources as possible.
-They can be described as using: Natural approach, Comprihensible input or TPRS.
+They can be described as using: Natural approach, Comprehensible input or TPRS.
 
 This is made with the help of our fellows here on [r\languagelearning](www.reddit.com/r/languagelearning/)
 
