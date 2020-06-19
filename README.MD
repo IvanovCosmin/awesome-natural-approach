@@ -109,8 +109,17 @@ Podcasts. They stream on iTunes, Stitcher and Spotify.
 [Russian With Max](https://www.youtube.com/channel/UCklUqFEcJqFnWKEBozw5p4g/playlists)
 Videos. You can find the PDFs into the description. He also has podcasts.
 
+Short Stories in Russian for Beginners by Olly Richards
+Book. You can either find the book or just listen them being read on youtube as there is a number of channels doing that.
+
 [Между нами](https://mezhdunami.org/)
 Online course.
+
+[Russian from Russia](https://www.youtube.com/channel/UCToc6Wngxhw2jfhvGzS966Q/)
+Youtube channel with explanations about the country and the language in Russian.
+
+[Russian Progress](https://www.youtube.com/channel/UCF0ZeqSkybD1aFtFxjA8z9w)
+Intermediate/Advanced channel in Russian with subtitles in Russian, English, French and German.
 
 
 
@@ -151,6 +160,11 @@ Has texts in many languages, translated into english. Really great resource for 
 [Drops](https://languagedrops.com/)
 Learn vocabulary using images. This may be good for more advanced users. I personally don't recommend buying it unless you are more advanced in the target language.
 
+[TED](https://www.ted.com/)
+Very useful because you can find transcripts of the talks in the target language. Watching it once in English and then reading in the target language may help you develop comprehension.
+
+Assimil
+Both the app and the books may help you a lot. It is worth trying
 
 
 
