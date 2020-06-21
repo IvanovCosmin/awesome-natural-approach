@@ -27,6 +27,9 @@ Videos.
 [French in Action](https://www.learner.org/series/french-in-action/)
 Video series developed at Yale.
 
+[ILYA FRANK’S READING METHOD](http://english.franklang.ru/index.php/french/5-french-with-the-little-prince)
+"Books" with audio, first with explanations and literal translations and then without. Worth checking out. Available for Chinese, French, German, Italian, Japanese and Russian.
+
 [Alice Ayel](https://www.youtube.com/user/aliceayel/featured)
 Videos. Has both beginner and intermediate videos.
 
@@ -50,6 +53,9 @@ Free natural approach PDFs.
 ## German
 [learn-german-easily](https://learn-german-easily.com/basic-lesson-tprs)
 Free online course.
+
+[ILYA FRANK’S READING METHOD](http://english.franklang.ru/index.php/german)
+"Books" with audio, first with explanations and literal translations and then without. Worth checking out. Available for Chinese, French, German, Italian, Japanese and Russian.
 
 [Phoebe Cho - TPRS German](https://www.youtube.com/playlist?list=PLKX3ce-xRQD2J1AJW_XJdI9R75DXKXRbi)
 Youtube series that uses Comprihensible Input Storytelling.
@@ -77,16 +83,31 @@ Book. Really understandable, gets gradually harder.
 ## Italian
 [Free books vivarionovum.it](https://vivariumnovum.it/risorse-didattiche/propria-formazione/metodo-diretto-applicato-alle-lingue-moderne)
 
+[ILYA FRANK’S READING METHOD](http://english.franklang.ru/index.php/italian)
+"Books" with audio, first with explanations and literal translations and then without. Worth checking out. Available for Chinese, French, German, Italian, Japanese and Russian.
+
+## Japanese
+[ILYA FRANK’S READING METHOD](http://english.franklang.ru/index.php/japanese)
+"Books" with audio, first with explanations and literal translations and then without. Worth checking out. Available for Chinese, French, German, Italian, Japanese and Russian.
+
 ## Latin
 [LinguaLatina - read](https://www.youtube.com/watch?v=_Zt19wzsW-c&list=PLU1WuLg45SiyrXahjvFahDuA060P487pV)
 Book that is read by ScorpioMartianus on youtube. For the real book check Lingua Latina on Google :)
 
 ## Mandarin
+
+[Coyote Chinese](http://cytchinese.tuxfamily.org/)
+NOT ONLY FOR ENGLISH SPEAKERS, read the description on the page. Free courses in the public domain from the Defense Language and Foreign Service institutes in the United States.
+
+[ILYA FRANK’S READING METHOD](http://english.franklang.ru/index.php/chinese/8-den-ze-true-life-real-stories)
+"Books" with audio, first with explanations and literal translations and then without. Worth checking out. Available for Chinese, French, German, Italian, Japanese and Russian.
+
 [Hit Chinese](https://www.youtube.com/channel/UCv33mxPEDfd_Ee1pz1y8KLw)
 Youtube channel. Has stories in slow Chinese.
 
 [Diane Neubauer](https://www.youtube.com/watch?v=_gEsjNgq5tU)
 Youtube channel. Has beginner reading playlist.
+
 
 ## Modern Hebrew
 [Alisa Zingerman - The Hebrew Hub](https://www.youtube.com/channel/UCUn7wA2GaEITAt4GzBZDbhQ)
@@ -121,7 +142,14 @@ Youtube channel with explanations about the country and the language in Russian.
 [Russian Progress](https://www.youtube.com/channel/UCF0ZeqSkybD1aFtFxjA8z9w)
 Intermediate/Advanced channel in Russian with subtitles in Russian, English, French and German.
 
+[Coyote Russian](http://cytrussian.tuxfamily.org/)
+Princeton Courses in the public domain. Audio only in Russian. Worth checking out.
 
+[ILYA FRANK’S READING METHOD](http://english.franklang.ru/index.php/russian)
+"Books" with audio, first with explanations and literal translations and then without. Worth checking out. Available for Chinese, French, German, Italian, Japanese and Russian.
+
+[3ears.com](https://3ears.com/)
+Videos with translations, Russian subtitles and explanations for every level of comprehension. You can also find TV series, cartoons and ads.
 
 ## Sanskrit
 [Sanskrit Through Sanskrit](https://www.youtube.com/playlist?list=PLudSN7Po9muLeRM6545s68eakbxwZRpEJ)
@@ -133,6 +161,9 @@ Youtube series
 ## Spanish
 [Destinos: AN Introduction to Spanish](https://www.youtube.com/watch?v=r1bZix5GZZ4&list=PLVnZ9hn7mt30PI4qXZ5o_mYx3l2A-arG2)
 Video series.
+
+[ILYA FRANK’S READING METHOD](http://english.franklang.ru/index.php/spanish)
+"Books" with audio, first with explanations and literal translations and then without. Worth checking out. Available for Chinese, French, German, Italian, Japanese and Russian.
 
 [Duolingo - Stories](https://stories.duolingo.com/)
 App/Website. I recommend only the stories part. The main one depends on the user.
