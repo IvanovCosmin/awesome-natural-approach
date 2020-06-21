@@ -58,7 +58,7 @@ Free online course.
 "Books" with audio, first with explanations and literal translations and then without. Worth checking out. Available for Chinese, French, German, Italian, Japanese and Russian.
 
 [Phoebe Cho - TPRS German](https://www.youtube.com/playlist?list=PLKX3ce-xRQD2J1AJW_XJdI9R75DXKXRbi)
-Youtube series that uses Comprihensible Input Storytelling.
+Youtube series that uses Comprehensible Input Storytelling.
 
 [Stern, S. Studien und Plaudereien. First Series, Henry Holt and company, New York, 1895](http://www.gutenberg.org/ebooks/22160)
 Book for english speakers. It is supposed to be read without any outside references.
@@ -175,6 +175,7 @@ Youtube videos.
 
 ## Turkish
 [Ali Yılmaz](https://www.youtube.com/channel/UCUulrH3oLPu41NhMNPubYxQ)
+Youtube channel. Has some nice explanations regarding pronunciation, grammar and more. Also has some stories.
 
 
 
