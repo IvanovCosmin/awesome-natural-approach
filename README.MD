@@ -187,7 +187,7 @@ Lots of other resources for many languages.
 Paid app. Has lots of videos translated in Spanish, French, Mandarin Chinese, German, Japanese, English, Italian, Russian, and Korean. Worth getting the trial and then deciding for yourself.
 
 [Beelinguapp](https://www.beelinguapp.com/)
-Has texts in many languages, translated into english. Really great resource for reading, listening and translating. It has Spanish, English, German, Portuguese, Korean, French, Hindi, Russian, Turkish, Chinese, Arabic, Italian and Japanese. Has a paid version, but the paid one is ok.
+Has texts in many languages, translated into english. Really great resource for reading, listening and translating. It has Spanish, English, German, Portuguese, Korean, French, Hindi, Russian, Turkish, Chinese, Arabic, Italian and Japanese. Has a paid version, but the free one is ok.
 
 [Drops](https://languagedrops.com/)
 Learn vocabulary using images. This may be good for more advanced users. I personally don't recommend buying it unless you are more advanced in the target language.
@@ -196,7 +196,7 @@ Learn vocabulary using images. This may be good for more advanced users. I perso
 Very useful because you can find transcripts of the talks in the target language. Watching it once in English and then reading in the target language may help you develop comprehension.
 
 Assimil
-Both the app and the books may help you a lot. It is worth trying
+Both the app and the books may help you a lot. It is worth trying.
 
 
 
