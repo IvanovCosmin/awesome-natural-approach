@@ -18,6 +18,9 @@ Videos. Has more channels, each for other mother tongue.
 [English Comprehensible Input for ESL Beginners](https://www.youtube.com/channel/UCSW8FB6e8tUGEaDsoe7SlWw)
 Youtube channel.
 
+[English by The Nature Method](https://www.youtube.com/watch?v=3gpoxZMLb8Q&list=PLf8XN5kNFkhcexaR82V7Y9pCjIl9N8gsJ)
+Youtube playlist of a comprehensible book read aloud. Really worth checking both this playlist and the rest of this youtube channel.
+
 ## Esperanto
 [Learn Esperanto - Direct Method](https://www.youtube.com/channel/UC5p3lVv0FLmLoExL-_iU2DA)
 Videos.
@@ -86,6 +89,9 @@ Online courses.
 Book. Really understandable, gets gradually harder.
 
 ## Italian
+[L'Italiano Secondo Il Metodo Natura](https://www.youtube.com/watch?v=2YGwH92yoxI&list=PLf8XN5kNFkhfQonvCySTrKEUV742WzshJ)
+Youtube playlist. It is worth checking the channel for more videos on both Italian and other languages (French, Latin, Turkish).
+
 [Free books vivarionovum.it](https://vivariumnovum.it/risorse-didattiche/propria-formazione/metodo-diretto-applicato-alle-lingue-moderne)
 
 [ILYA FRANK’S READING METHOD](http://english.franklang.ru/index.php/italian)
@@ -98,6 +104,9 @@ Book. Really understandable, gets gradually harder.
 ## Latin
 [LinguaLatina - read](https://www.youtube.com/watch?v=_Zt19wzsW-c&list=PLU1WuLg45SiyrXahjvFahDuA060P487pV)
 Book that is read by ScorpioMartianus on youtube. For the real book check Lingua Latina on Google :)
+
+[Learn Latin Through Conversations with Caesar](https://www.youtube.com/watch?v=Pm7mPv1PxMQ&list=PLf8XN5kNFkhf5zDHVww5xGIxWtQJLiBPs)
+Youtube playlist. It is worth checking the channel for more resources on Latin and other languages (French, Turkish, Italian)
 
 ## Mandarin
 
@@ -182,6 +191,8 @@ Youtube videos.
 [Ali Yılmaz](https://www.youtube.com/channel/UCUulrH3oLPu41NhMNPubYxQ)
 Youtube channel. Has some nice explanations regarding pronunciation, grammar and more. Also has some stories.
 
+[Learn Turkish Through Stories and Tales](https://www.youtube.com/playlist?list=PLf8XN5kNFkhexLjYMPPHeVwPdB5acfNUd)
+Youtube playlist of comprehensible stories in turkish. There are more to be added.
 
 
 # Other useful links
