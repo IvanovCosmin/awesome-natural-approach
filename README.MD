@@ -24,6 +24,11 @@ Videos.
 
 
 ## French
+
+[Le Français Par La Méthode Nature](https://www.patreon.com/posts/le-francais-par-42969399)
+An really nice book (over 1100 pages) that uses the natural method.
+There is also an [audio version](https://www.youtube.com/watch?v=0uS5WSeH8iM&list=PLf8XN5kNFkhdIS7NMcdUdxibD1UyzNFTP) on youtube.
+
 [French in Action](https://www.learner.org/series/french-in-action/)
 Video series developed at Yale.
 
