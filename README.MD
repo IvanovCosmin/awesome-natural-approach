@@ -173,6 +173,9 @@ Youtube series
 
 
 ## Spanish
+[Poco a Poco](http://thelixir.net/wp-content/uploads/2020/Spanish_Course.pdf)
+Free natural approach book. There is also audio available [here](https://www.youtube.com/watch?v=hOlErCiNfhE&list=PLf8XN5kNFkhe4D2BPBKaUb2JvDHuzAGPI).
+
 [Destinos: AN Introduction to Spanish](https://www.youtube.com/watch?v=r1bZix5GZZ4&list=PLVnZ9hn7mt30PI4qXZ5o_mYx3l2A-arG2)
 Video series.
 
