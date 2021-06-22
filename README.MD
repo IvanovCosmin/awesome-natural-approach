@@ -98,8 +98,15 @@ Youtube playlist. It is worth checking the channel for more videos on both Itali
 "Books" with audio, first with explanations and literal translations and then without. Worth checking out. Available for Chinese, French, German, Italian, Japanese and Russian.
 
 ## Japanese
+[ComprehensibleJapanese](https://www.youtube.com/c/ComprehensibleJapanese/featured) A Youtube channel with a lot of videos with comprehensible input
+
+[DrDru's comprihensible japanese website](https://drdru.github.io/) A website that acts like a book that somehow teaches you japanese for beginners. 
+
+[Tadoku books](https://tadoku.org/japanese/en/free-books-en/) Free japanese books for levels 1 to 5.
+
 [ILYA FRANK’S READING METHOD](http://english.franklang.ru/index.php/japanese)
 "Books" with audio, first with explanations and literal translations and then without. Worth checking out. Available for Chinese, French, German, Italian, Japanese and Russian.
+
 
 ## Latin
 [LinguaLatina - read](https://www.youtube.com/watch?v=_Zt19wzsW-c&list=PLU1WuLg45SiyrXahjvFahDuA060P487pV)
