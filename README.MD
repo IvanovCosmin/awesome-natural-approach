@@ -2,7 +2,7 @@
 This is just that contains as many language learning resources as possible.
 They can be described as using: Natural approach, Comprehensible input or TPRS.
 
-This is made with the help of our fellows here on [r\languagelearning](www.reddit.com/r/languagelearning/)
+This is made with the help of our fellows here on [r\languagelearning](https://www.reddit.com/r/languagelearning/)
 
 If I made any mistakes, please create a pull request with the needed fixes or create an issue.
 I haven't personally verified all of them.
