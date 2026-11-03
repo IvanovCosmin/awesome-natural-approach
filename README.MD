@@ -57,6 +57,9 @@ Videos.
 [Free books vivarionovum.it](https://vivariumnovum.it/risorse-didattiche/propria-formazione/metodo-diretto-applicato-alle-lingue-moderne)
 Free natural approach PDFs.
 
+[MotsActu](https://motsactu.com/learn/)
+Free daily news rewritten at A1, A2, B1 and B2, with quizzes and weekly printable worksheets.
+
 
 ## German
 [learn-german-easily](https://learn-german-easily.com/basic-lesson-tprs)
